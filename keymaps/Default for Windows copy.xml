@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="FixDocComment">
+    <mouse-shortcut keystroke="shift button1 doubleClick" />
+  </action>
+</keymap>
