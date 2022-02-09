@@ -5,5 +5,6 @@
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
 </keymap>
