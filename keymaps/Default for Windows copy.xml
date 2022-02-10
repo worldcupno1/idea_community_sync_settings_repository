@@ -1,10 +1,9 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
-  <action id="FindInPath" />
-  <action id="FixDocComment">
-    <mouse-shortcut keystroke="shift button1 doubleClick" />
-  </action>
-  <action id="SearchEverywhere">
+  <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="FixDocComment">
+    <mouse-shortcut keystroke="shift button1 doubleClick" />
   </action>
 </keymap>
