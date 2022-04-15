@@ -1,0 +1,11 @@
+<application>
+  <component name="ServerConfiguration">
+    <option name="tomcatInfos">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat/6.0.18" />
+        <option name="path" value="D:\2workspace\eclipse\tomcat6-uap" />
+        <option name="version" value="6.0.18.0" />
+      </TomcatInfo>
+    </option>
+  </component>
+</application>
