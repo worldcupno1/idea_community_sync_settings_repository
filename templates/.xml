@@ -1,5 +1,5 @@
 <templateSet group="自定义">
-  <template name="dd" value="/**&#10; * Title:  &lt;br&gt;&#10; * Description: &lt;br&gt;&#10; * Date: $DATE$ $TIME$&lt;br&gt;&#10; * Copyright (c)   &lt;br&gt;&#10; * &#10; * @author $USER$&#10; */" description="javadoc类注释" toReformat="false" toShortenFQNames="true">
+  <template name="dd" value="/**&#10; * @Title:  &lt;br&gt;&#10; * @Description: &lt;br&gt;&#10; * @Date: $DATE$ $TIME$&lt;br&gt;&#10; * @Copyright (c)   &lt;br&gt;&#10; * &#10; * @author $USER$&#10; */" description="javadoc类注释" toReformat="false" toShortenFQNames="true">
     <variable name="DATE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TIME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="USER" expression="" defaultValue="" alwaysStopAt="true" />
