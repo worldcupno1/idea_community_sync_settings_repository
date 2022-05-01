@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
