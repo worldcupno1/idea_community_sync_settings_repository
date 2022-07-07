@@ -52,6 +52,21 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="cn.cloud.auto.restful.tool">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.properties" />
+                  <option value="org.jetbrains.kotlin" />
+                  <option value="org.jetbrains.plugins.yaml" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.alibaba.p3c.smartfox">
           <value>
             <PluginData>
@@ -127,7 +142,6 @@
                   <option value="com.intellij.properties" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -168,15 +182,12 @@
                   <option value="org.jetbrains.kotlin" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
         <entry key="com.jetbrains.space">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.poratu.idea.plugins.tomcat">
@@ -209,7 +220,6 @@
                   <option value="com.intellij.modules.vcs" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -266,9 +276,7 @@
         </entry>
         <entry key="org.jetbrains.kotlin">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
       </map>
