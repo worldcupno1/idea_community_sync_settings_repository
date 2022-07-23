@@ -1,0 +1,3 @@
+<application>
+  <component name="GerritSettings" Login="lvming@morefun-et.com" Host="http://git.morefun-et.com:8096" ListAllChanges="false" AutomaticRefresh="true" RefreshTimeout="57" ReviewNotifications="true" PushToGerrit="false" ShowChangeNumberColumn="false" ShowChangeIdColumn="false" ShowTopicColumn="false" ShowProjectColumn="AUTO" CloneBaseUrl="" />
+</application>

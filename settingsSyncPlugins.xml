@@ -18,6 +18,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="GsonFormat">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="GsonFormatPlus">
           <value>
             <PluginData>
@@ -49,6 +54,18 @@
                   <option value="org.jetbrains.idea.maven" />
                 </set>
               </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="Subversion">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -196,6 +213,18 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.urswolfer.intellij.plugin.gerrit">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Git4Idea" />
+                  <option value="com.intellij.modules.lang" />
                 </set>
               </option>
             </PluginData>
