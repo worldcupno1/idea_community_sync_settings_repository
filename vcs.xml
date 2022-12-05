@@ -3,6 +3,16 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="worldcupno1@126.com" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
           <option name="url" value="git@github.com:worldcupno1/usu.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
